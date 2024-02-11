@@ -1,11 +1,12 @@
+html{
+  font-size: 20px;
+}
 body{
   font-family: "Arial","Meiryo",sans-serif;
-  font-size: 20px;
   text-align: center;
 }
 h1{
   font-family: 'Josefin Sans', sans-serif;
-  font-family: 'Noto Sans JP', sans-serif;
 }
 .myprofile{
   font-size: 2rem;
